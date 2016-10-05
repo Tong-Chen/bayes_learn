@@ -1,0 +1,7 @@
+![Bayes_text_1_1.jpg](pic/Bayes_text_1_1.jpg)
+![Bayes_text_1_2.jpg](pic/Bayes_text_1_2.jpg)
+![Bayes_text_1_3.jpg](pic/Bayes_text_1_3.jpg)
+![Bayes_text_1_4.jpg](pic/Bayes_text_1_4.jpg)
+![Bayes_text_1_5.jpg](pic/Bayes_text_1_5.jpg)
+![Bayes_text_1_6.jpg](pic/Bayes_text_1_6.jpg)
+![Bayes_text_1_7.jpg](pic/Bayes_text_1_7.jpg)
