@@ -5,3 +5,4 @@
 ![Bayes_text_1_5.jpg](pic/Bayes_text_1_5.jpg)
 ![Bayes_text_1_6.jpg](pic/Bayes_text_1_6.jpg)
 ![Bayes_text_1_7.jpg](pic/Bayes_text_1_7.jpg)
+![Bayes_text_1_8.jpg](pic/Bayes_text_1_8.jpg)
